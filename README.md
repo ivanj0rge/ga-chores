@@ -4,13 +4,13 @@ Choretle is a dynamic task management web application developed within a week du
 
 Deployment link:
 
-[Choretle](insert deployment link here)
+https://choretle.vercel.app/
 
 Getting Started/Code Installation:
 
 To explore the code and run the project locally, follow these steps:
 
-Clone the repository: git clone [repository_url]
+Clone the repository: git clone https://github.com/ivanj0rge/ga-chores
 Navigate to the project folder and install dependencies using npm install.
 Start the Next.js development server with npm run dev.
 
@@ -25,6 +25,7 @@ Vercel
 React.js
 CSS (Frontend styling)
 Backend CRUD operations
+
 Brief:
 
 The project aimed to create a collaborative task management web application using Next.js for the frontend, and Vercel for deployment, incorporating features such as household creation, member invitations, chore assignments, and completion tracking.
