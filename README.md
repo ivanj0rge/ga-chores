@@ -1,6 +1,6 @@
 Description:
 
-Choretle is a dynamic task management web application developed within a week during the ninth week of the course. This collaborative project involved a team of three developers and utilized Next.js for the frontend, Vercel for seamless deployment, and incorporated collaborative features such as household creation, member invitations, chore assignments, and completion tracking.
+Choretle is a dynamic task management web application developed within a week during the ninth week of the GA Software Engineering course. This collaborative project involved a team of three developers and utilized Next.js for the frontend, Vercel for seamless deployment, and incorporated collaborative features such as household creation, member invitations, chore assignments, and completion tracking.
 
 Deployment link:
 
