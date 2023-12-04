@@ -1,36 +1,62 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Description:
 
-## Getting Started
+Choretle is a dynamic task management web application developed within a week during the ninth week of the course. This collaborative project involved a team of three developers and utilized Next.js for the frontend, Vercel for seamless deployment, and incorporated collaborative features such as household creation, member invitations, chore assignments, and completion tracking.
 
-First, run the development server:
+Deployment link:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+[Choretle](insert deployment link here)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Getting Started/Code Installation:
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+To explore the code and run the project locally, follow these steps:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Clone the repository: git clone [repository_url]
+Navigate to the project folder and install dependencies using npm install.
+Start the Next.js development server with npm run dev.
 
-## Learn More
+Timeframe & Working Team:
 
-To learn more about Next.js, take a look at the following resources:
+The project was completed in a week during the ninth week of the course. It was a collaborative effort involving a team of three developers.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Technologies Used:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Next.js
+Vercel
+React.js
+CSS (Frontend styling)
+Backend CRUD operations
+Brief:
 
-## Deploy on Vercel
+The project aimed to create a collaborative task management web application using Next.js for the frontend, and Vercel for deployment, incorporating features such as household creation, member invitations, chore assignments, and completion tracking.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Planning:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+The planning stage involved collaborative decision-making on the application's structure, user interface, and functionality. We used a project management tool to allocate tasks, plan sprints, and ensure a cohesive development process.
+
+Build/Code Process:
+
+My contributions primarily focused on backend CRUD operations and frontend CSS for an improved user interface.
+
+Challenges:
+
+Synchronizing frontend and backend functionalities for seamless chore assignment and completion tracking.
+Collaborative decision-making for the application's architecture and feature set.
+
+Wins:
+
+Successful implementation of backend CRUD operations for creating households and managing chores.
+Achieved an enhanced user interface through carefully crafted CSS.
+
+Key Learnings/Takeaways:
+
+Deepened understanding of collaborative project development.
+Gained proficiency in backend CRUD operations with Next.js.
+
+Bugs:
+
+No significant bugs to report.
+
+Future Improvements:
+
+Enhance collaborative features such as the option to accept or decline chore assignments.
+Add additional styling and animations for a more engaging user experience.
