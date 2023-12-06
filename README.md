@@ -1,3 +1,7 @@
+
+![Screenshot 2023-12-06 142742](https://github.com/ivanj0rge/ga-chores/assets/143030533/2a921102-6a39-4ca4-9b15-f9c12b339d21)
+
+
 Description:
 
 Choretle is a dynamic task management web application developed within a week during the ninth week of the GA Software Engineering course. This collaborative project involved a team of three developers and utilized Next.js for the frontend, Vercel for seamless deployment, and incorporated collaborative features such as household creation, member invitations, chore assignments, and completion tracking.
